@@ -22,12 +22,6 @@ This project generates secure, customizable passwords with instant copy function
 
 ---
 
-## 🖥️ Demo
-
-[🚀 Live Demo Coming Soon]()
-
----
-
 ## 📸 Preview
 
 ![Password Generator Screenshot](./screenshot.png)
@@ -49,7 +43,7 @@ This project generates secure, customizable passwords with instant copy function
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/tanushree-coder-girl/project2react.git
+git clone https://github.com/tanushree-coder-girl/Password-Generator-React.git
 cd password-generator-react
 
 npm install
